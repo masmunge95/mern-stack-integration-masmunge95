@@ -56,6 +56,7 @@ mern-blog/
 │   │   ├── services/       # API services
 │   │   ├── utils/          # Frontend utility functions
 │   │   └── App.jsx         # Main application component
+│   ├── netlify.toml        # Netlify configuration
 │   └── package.json        # Client dependencies
 ├── server/                 # Express.js back-end
 │   ├── config/             # Configuration files
@@ -66,7 +67,6 @@ mern-blog/
 │   ├── uploads/            # File uploads directory
 │   ├── utils/              # Backend utility functions
 │   ├── server.js           # Main server file
-│   ├── netlify.toml        # Netlify configuration
 │   └── package.json        # Server dependencies
 └── README.md               # Project documentation
 ```
